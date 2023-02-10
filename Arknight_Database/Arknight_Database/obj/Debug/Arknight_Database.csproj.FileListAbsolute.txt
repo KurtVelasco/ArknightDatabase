@@ -1,0 +1,16 @@
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\bin\Debug\Arknight_Database.exe.config
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\bin\Debug\Arknight_Database.exe
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\bin\Debug\Arknight_Database.pdb
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\bin\Debug\System.Text.Json.dll
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\bin\Debug\System.Memory.dll
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\bin\Debug\System.Buffers.dll
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\obj\Debug\Arknight_Database.csproj.AssemblyReference.cache
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\obj\Debug\Arknight_Database.exe.config
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\obj\Debug\Arknight_Database.csproj.CoreCompileInputs.cache
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\obj\Debug\Arknight_Database.exe
+C:\Users\karin\source\repos\Arknight_Database\Arknight_Database\obj\Debug\Arknight_Database.pdb
