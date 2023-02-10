@@ -32,7 +32,7 @@ namespace Arknight_Database
                             break;
                         case 2:
                             Console.Clear();
-                            Console.WriteLine("Welcome to the Online Database (Beta)\n" + "Make sure your connected to the internet\n");
+                            Console.WriteLine("Welcome to the Online Database (WIP)" );
                             OperatorCallRawData_Online.CallOperatorOnline(UserInput.OperatorName("Write The Operator: "));
                             break;
                         case 3:
